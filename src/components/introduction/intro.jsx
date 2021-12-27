@@ -18,7 +18,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        I am a new full-stack web developer who has recently completed an online coding bootcamp from the University of Arizona. I have experience using both front-end and back-end technologies and am eager to bring these skillsets to a professional setting.
+                        I am a new full-stack web developer who has recently completed an online coding bootcamp from the University of Arizona. I have experience using both front-end and back-end technologies and am eager to bring these recently aquired skillsets to a professional setting.
                     </p>
                 </div>
                 <svg
