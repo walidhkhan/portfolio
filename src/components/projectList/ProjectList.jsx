@@ -1,5 +1,5 @@
-import "./projectList.css"
-import Project from "../project/Project"
+import "./projectList.css";
+import Project from "../project/Project";
 
 const ProjectList = () => {
     return (

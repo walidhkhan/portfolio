@@ -1,5 +1,5 @@
-import "./intro.css"
-import Me from "../../img/me.png"
+import "./intro.css";
+import Me from "../../img/me.png";
 
 const Intro = () => {
     return (
@@ -10,11 +10,11 @@ const Intro = () => {
                     <h1 className="i-name">Walid Khan</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">Web Developer</div>
-                            <div className="i-title-item">with experience in...</div>
-                            <div className="i-title-item">Front-End</div>
-                            <div className="i-title-item">Back-End</div>
-                            <div className="i-title-item">Lover of code!</div>
+                            <div className="i-title-item">UI Enhancer</div>
+                            <div className="i-title-item">App Data Logician</div>
+                            <div className="i-title-item">Relentless Debugger</div>
+                            <div className="i-title-item">Documentation Analyzer</div>
+                            <div className="i-title-item">Full-Stack Web Developer</div>
                         </div>
                     </div>
                     <p className="i-desc">

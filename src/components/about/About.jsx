@@ -1,6 +1,6 @@
-import "./about.css"
-import Certificate from "../../img/cert.PNG"
-import AboutMePic from "../../img/about-me-pic.jpg"
+import "./about.css";
+import Certificate from "../../img/cert.PNG";
+import AboutMePic from "../../img/about-me-pic.jpg";
 
 const About = () => {
     return (
