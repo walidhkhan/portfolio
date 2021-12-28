@@ -1,5 +1,6 @@
 import "./about.css"
 import Certificate from "../../img/cert.PNG"
+import AboutMePic from "../../img/about-me-pic.jpg"
 
 const About = () => {
     return (
@@ -8,7 +9,7 @@ const About = () => {
                 <div className="a-card bg"></div>
                 <div className="a-card">
                     <img
-                        src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        src={AboutMePic}
                         alt=""
                         className="a-img"
                     />
@@ -29,7 +30,7 @@ const About = () => {
                 <div className="a-cert">
                     <img src={Certificate} alt="" className="a-cert-img" />
                     <div className="a-cert-texts">
-                        <h4 className="a-cert-title">Full-Stack Web Developement</h4>
+                        <h4 className="a-cert-title">Full-Stack Web Developement Certified</h4>
                         <p className="a-cert-desc">
                             Certificate of completion for University of Arizona's online coding bootcamp which covered the following topics: HTML, CSS, JavaScript, Jquery, etc.
                         </p>
