@@ -3,13 +3,16 @@ import Email from "../../img/email.png";
 import LinkedIn from "../../img/linkedin.png";
 import Github from "../../img/github.png";
 import Resume from "../../img/resume.png";
-import { useRef, useState } from "react";
+import { useContext, useRef, useState } from "react";
 import emailjs from 'emailjs-com';
+import { ThemeContext } from "../../context";
 
 
 const Contact = () => {
     const formRef = useRef()
     const [done, setDone ] = useState(false)
+    const theme = useContext(ThemeContext)
+    const darkMode = theme.state.darkMode;
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -68,10 +71,10 @@ const Contact = () => {
                         <b>Want to connect?</b> Let's get in touch! I'm always looking for potential opportunities or feedback on my project work 😄
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
-                        <input type="text" placeholder="Name" name="user_name" />
-                        <input type="text" placeholder="Subject" name="user_subject" />
-                        <input type="text" placeholder="Email" name="user_email" />
-                        <textarea rows="5" placeholder="Message" name="message" />
+                        <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
+                        <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Subject" name="user_subject" />
+                        <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
+                        <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
                         <button>Submit</button>
                         {done && "Your message has been sent. Thank you!"}
                     </form>
