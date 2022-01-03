@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fc8d68e.chunk.css",
+    "main.js": "/static/js/main.fb86fa4b.chunk.js",
+    "main.js.map": "/static/js/main.fb86fa4b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.baeb8d0a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.baeb8d0a.js.map",
+    "static/js/2.58b40020.chunk.js": "/static/js/2.58b40020.chunk.js",
+    "static/js/2.58b40020.chunk.js.map": "/static/js/2.58b40020.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7fc8d68e.chunk.css.map": "/static/css/main.7fc8d68e.chunk.css.map",
+    "static/js/2.58b40020.chunk.js.LICENSE.txt": "/static/js/2.58b40020.chunk.js.LICENSE.txt",
+    "static/media/Web-Dev-Resume.649a3a2f.pdf": "/static/media/Web-Dev-Resume.649a3a2f.pdf",
+    "static/media/about-me-pic.9883e412.jpg": "/static/media/about-me-pic.9883e412.jpg",
+    "static/media/cert.a507a58a.PNG": "/static/media/cert.a507a58a.PNG",
+    "static/media/email.a49e0158.png": "/static/media/email.a49e0158.png",
+    "static/media/github.7af6dd95.png": "/static/media/github.7af6dd95.png",
+    "static/media/linkedin.7be0d03c.png": "/static/media/linkedin.7be0d03c.png",
+    "static/media/me2.792e3c79.png": "/static/media/me2.792e3c79.png",
+    "static/media/moon.3bea3d39.png": "/static/media/moon.3bea3d39.png",
+    "static/media/resume.99957312.png": "/static/media/resume.99957312.png",
+    "static/media/sun.f794832a.png": "/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baeb8d0a.js",
+    "static/js/2.58b40020.chunk.js",
+    "static/css/main.7fc8d68e.chunk.css",
+    "static/js/main.fb86fa4b.chunk.js"
+  ]
+}
