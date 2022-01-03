@@ -16,23 +16,19 @@ const About = () => {
                 </div>
             </div>
             <div className="a-right">
-                <h1 className="a-title">About Me</h1>
+                <h1 className="a-title">About</h1>
                 <p className="a-sub">
-                    It is a long established fact that a reader will be distracted by the
-                    readable content.
+                    Who is this guy?
                 </p>
                 <p className="a-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+                I am a new full-stack web developer who has recently completed an online coding bootcamp from the University of Arizona. I have experience using front-end and back-end technologies along with version control. I am both very eager and actively looking to bring these recently aquired skillsets to a professional setting.
                 </p>
                 <div className="a-cert">
                     <img src={Certificate} alt="" className="a-cert-img" />
                     <div className="a-cert-texts">
-                        <h4 className="a-cert-title">Full-Stack Web Developement Certified</h4>
+                        <h4 className="a-cert-title">Full-Stack Web Development Certified</h4>
                         <p className="a-cert-desc">
-                            Certificate of completion for University of Arizona's online coding bootcamp which covered the following topics: HTML, CSS, JavaScript, Jquery, etc.
+                            Certificate of completion from University of Arizona's online coding bootcamp which covered the following topics: Git, HTML, CSS, JavaScript, APIs, Node.js, OOP, Express.js, SQL, ORM, MVC, NoSQL, PWA, React, MERN, and State.
                         </p>
                     </div>
                 </div>

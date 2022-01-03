@@ -8,6 +8,7 @@ const Intro = () => {
                 <div className="i-left-wrapper">
                     <h2 className="i-intro">Hello, my name is</h2>
                     <h1 className="i-name">Walid Khan</h1>
+                    <h2 className="i-intro">and I'm a...</h2>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">UI Enhancer</div>
@@ -17,9 +18,9 @@ const Intro = () => {
                             <div className="i-title-item">Full-Stack Web Developer</div>
                         </div>
                     </div>
-                    <p className="i-desc">
+                    {/* <p className="i-desc">
                         I am a new full-stack web developer who has recently completed an online coding bootcamp from the University of Arizona. I have experience using both front-end and back-end technologies and am eager to bring these recently aquired skillsets to a professional setting.
-                    </p>
+                    </p> */}
                 </div>
                 <svg
                     width="75"
