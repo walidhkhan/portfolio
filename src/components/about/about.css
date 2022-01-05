@@ -80,7 +80,7 @@
     .a {
         flex-direction: column;
         text-align: center;
-        margin-top: 50px;
+        margin-top: none;
     }
 
     .a-left {
@@ -95,7 +95,29 @@
         display: none;
     }
 
-    .a-right {
-        padding: 20px;
+    .a-title{
+        display: none;
     }
+
+    /* .a-right {
+        padding: 10px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    } */
+
+    /* Certifcate image */
+    .a-cert, .a-cert-texts  {
+        margin-top: none;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        flex-direction: column;
+    }
+
+    /* Certificate text */
+    .a-cert-texts {
+        font-size: 12px;
+    }
+
 }
