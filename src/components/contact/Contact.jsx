@@ -47,6 +47,7 @@ const Contact = () => {
                                     src={LinkedIn}
                                     alt=""
                                     className="c-icon"
+                                    id="hover-icon"
                                 />
                             </a>
                             Linkedin
@@ -57,6 +58,7 @@ const Contact = () => {
                                     src={Github}
                                     alt=""
                                     className="c-icon"
+                                    id="hover-icon"
                                 />
                             </a>
                             Github
@@ -67,6 +69,7 @@ const Contact = () => {
                                     src={Resume}
                                     alt=""
                                     className="c-icon"
+                                    id="hover-icon"
                                 />
                             </a>
                             Resume

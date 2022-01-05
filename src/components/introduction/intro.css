@@ -112,17 +112,19 @@
         flex-direction: column;
     }
 
-    .i-right {
-        /* margin-bottom: 0;
+    /* .i-right {
+        margin-bottom: 0;
         padding-bottom: 0;
-        border-bottom: 0; */
-        /* flex:none; */
-    }
+        border-bottom: 0;
+        flex:none;
+    } */
 
     .i-img {
         width: 40%;
+        height: 40%;
         margin-top: 5px;
         align-items: center;
+        justify-content: center;
     }
 
     /* .i-img {
