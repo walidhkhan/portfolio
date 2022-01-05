@@ -79,7 +79,7 @@ button{
     cursor: pointer;
 }
 
-.c-icon:hover ,button:hover {
+#hover-icon:hover ,button:hover {
     opacity: 0.3;
 }
 
