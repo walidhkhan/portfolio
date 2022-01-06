@@ -30,6 +30,9 @@
 
     .pl {
         padding: 55px;
+        margin-top: 10px;
+        /* flex-direction: column; */
+        /* object-position: bottom; */
     }
 
     .pl-texts {
