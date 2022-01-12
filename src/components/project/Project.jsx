@@ -9,11 +9,18 @@ const Project = ({ img, link, title, desc, techs, gl }) => {
                 <div className="p-circle"></div>
                 <div className="p-circle"></div>
                 <div className="p-circle"></div>
+                <div className="p-title-mobile">
+                    {title} 
+                </div>
             </div>
             <div class="p-container">
                 {/* <a href={link} target="_blank" rel="noreferrer"> */}
                 <img src={img} alt="" className="p-img" />
                 <div class="overlay">
+                <div className="p-desc-info-mobile">
+                    {desc}
+                    {techs} 
+                </div>
                     <div className="p-title">
                         {title}
                     </div>
@@ -25,17 +32,22 @@ const Project = ({ img, link, title, desc, techs, gl }) => {
                     </div>
                     <div>
                         <a href={link} target="_blank" rel="noreferrer">
-                            <img class="cl-icon" id="cl-icon-hover" src={ChainLink} alt="" title="View Project"/>
+                            <img class="cl-icon" id="cl-icon-hover" src={ChainLink} alt="" title="View Project" />
                         </a>
                     </div>
                     <div>
                         <a href={gl} target="_blank" rel="noreferrer">
-                            <img class="g-icon" id="g-icon-hover" src={Github} alt="" title="View Repository"/>
+                            <img class="g-icon" id="g-icon-hover" src={Github} alt="" title="View Repository" />
                         </a>
                     </div>
                 </div>
                 {/* </a> */}
             </div>
+            {/* <div className="p-info-mobile">
+                {title}
+                {desc}
+                {techs}
+            </div> */}
         </div>
     );
 };
