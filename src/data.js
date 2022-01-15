@@ -6,9 +6,11 @@ export const projects = [
         img: "https://i.ibb.co/bv9TJ4w/Weather-Dashboard.gif",
         link: "https://walidhkhan.github.io/weather-dashboard/",
         title: "Weather Dashboard",
-        desc: "Weather app which displays a city's current weather conditions and projected 5-day weather forecast.",
+        desc: "Weather app which displays a city's current weather conditions & projected 5-day forecast.",
         techs: "OpenWeather One Call API, JavaScript, CSS, & HTML",
         gl: "https://github.com/walidhkhan/professional-readme-generator",
+        imgHeight: "60%",
+        imgWidth: "120%",
     },
     {
         // Coding Quiz Challenge
@@ -19,6 +21,8 @@ export const projects = [
         desc: "Quiz featuring coding questions about basic HTML, CSS, and JavaScript.",
         techs: "HTML, CSS, & JavaScript",
         gl: "https://github.com/walidhkhan/professional-readme-generator",
+        imgHeight: "60%",
+        imgWidth: "100%",
     },
     {
         // Professional README.md Generator
@@ -29,5 +33,7 @@ export const projects = [
         desc: "ReadME.md file generator which generates based on user prompt responses.",
         techs: "NodeJS & Inquirer package",
         gl: "https://github.com/walidhkhan/professional-readme-generator",
+        imgHeight: "60%",
+        imgWidth: "100%",
     },
 ];

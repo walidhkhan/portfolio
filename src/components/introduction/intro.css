@@ -125,7 +125,7 @@
         /* bottom: 30%; */
         /* padding: none; */
         /* display: table-cell; */
-        /* vertical-align: middle; */
+        vertical-align: middle;
         /* margin-top: 25px; */
         /* align-items: center; */
         /* justify-content: center; */
@@ -162,7 +162,7 @@
 
     .i-bg {
         /* mobile view bottom */
-        height: 90%;
+        height: 80%;
 
         /* bottom: 30%; */
         /* display: table; */

@@ -93,10 +93,10 @@ button{
         font-size: 30px;
     }
 
-    .c-info-item {
+    /* .c-info-item {
         margin: 20px 0px;
         width: 100%;
-    }
+    } */
 
     .c-desc {
         display: none;
@@ -119,8 +119,12 @@ button{
         margin-top: 10px;
     }
 
-    /* .c-info-item:hover, .c-icon:hover {
-        opacity: 0.3;
+    .c-info-item:hover, .c-icon:hover {
+        opacity: none;
+    }
+
+    /* #hover-icon:hover {
+        pointer-events: none;
     } */
 
 }
