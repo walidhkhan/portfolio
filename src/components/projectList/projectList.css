@@ -43,7 +43,7 @@
         display: none;
     }
 
-    /* .pl-title {
-        padding: 55px;
-    } */
+    .pl-title {
+        font-size: 30px;
+    }
 }
