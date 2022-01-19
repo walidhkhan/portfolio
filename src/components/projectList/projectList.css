@@ -29,9 +29,10 @@
 @media screen and (max-width:480px) {
 
     .pl {
-        padding: 55px;
-        margin-top: 10px;
-        /* flex-direction: column; */
+        padding: 30px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
         /* object-position: bottom; */
     }
 
