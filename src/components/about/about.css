@@ -57,7 +57,7 @@
 
 .a-desc{
     font-weight: 300;
-    padding-left: 10px;
+    /* padding-left: 10px; */
     padding-right: 10px;
 }
 
@@ -100,8 +100,12 @@
         display: none;
     }
 
-    .a-title{
+    .a-title {
         display: none;
+    }
+
+    .a-desc {
+        padding-left: 10px;
     }
 
     /* .a-right {
