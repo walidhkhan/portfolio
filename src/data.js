@@ -3,14 +3,14 @@ export const projects = [
     {
         // Weather Dashboard
         id: 1,
-        img: "https://i.ibb.co/bv9TJ4w/Weather-Dashboard.gif",
+        img: "https://i.ibb.co/wcWg0cV/Weather-Dashboard.gif",
         link: "https://walidhkhan.github.io/weather-dashboard/",
         title: "Weather Dashboard",
         desc: "Weather app which displays a city's current weather conditions & projected 5-day forecast.",
         techs: "OpenWeather One Call API, JavaScript, CSS, & HTML",
         gl: "https://github.com/walidhkhan/professional-readme-generator",
         imgHeight: "60%",
-        imgWidth: "120%",
+        imgWidth: "100%",
     },
     {
         // Professional README.md Generator
