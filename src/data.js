@@ -25,14 +25,14 @@ export const projects = [
         imgWidth: "100%",
     },
     {
-        // Coding Quiz Challenge
+        // Password Generator 
         id: 3,
-        img: "https://i.ibb.co/VDmkJNd/Coding-Quiz-Challenge.gif",
-        link: "https://walidhkhan.github.io/code-quiz/",
-        title: "Coding Quiz Challenge",
-        desc: "Quiz featuring coding questions about basic HTML, CSS, & JavaScript.",
+        img: "https://i.ibb.co/DQM1q3Z/Untitled-Feb-16-2022-11-09-PM.gif",
+        link: "https://walidhkhan.github.io/password-generator/",
+        title: "Password Generator",
+        desc: "Password generator which generates based on user prompt responses.",
         techs: "HTML, CSS, & JavaScript",
-        gl: "https://github.com/walidhkhan/professional-readme-generator",
+        gl: "https://github.com/walidhkhan/password-generator",
         imgHeight: "60%",
         imgWidth: "100%",
     },
