@@ -32,8 +32,9 @@
         padding: 30px;
         margin-top: 50px;
         display: flex;
+
         flex-direction: column;
-        /* object-position: bottom; */
+
     }
 
     .pl-texts {
