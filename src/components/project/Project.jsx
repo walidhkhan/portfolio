@@ -26,7 +26,7 @@ const Project = ({ img, link, title, desc, techs, gl, imgHeight, imgWidth }) => 
                         </a>
                         &nbsp;|&nbsp;
                         <a href={gl} target="_blank" rel="noreferrer">
-                            View Repo 
+                            Source 
                         </a>
                     </div>
                 </div>
