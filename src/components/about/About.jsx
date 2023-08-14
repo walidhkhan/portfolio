@@ -31,7 +31,7 @@ const About = () => {
                 </p>
                 <br/>
                 <p className="a-desc">
-                My long term career goals consist of growing into a senior IT role. Through further experience and continuous improvement, I will use my knowledge within the fundamentals of IT and business to contribute towards advanced development within the technological world.
+                My long term career goals consist of growing into a senior IT role. Through further experience and continuous improvement, I will use my knowledge within the fundamentals of IT and business to contribute towards the advanced development within the technological world.
                 </p>
                 <div className="a-cert">
                     <img src={Certificate} alt="" className="a-cert-img" />
