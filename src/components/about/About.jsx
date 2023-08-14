@@ -23,7 +23,7 @@ const About = () => {
                 <br/>                
                 <p className="a-desc">
                 I'm an IT Professional who is currently seeking opportunities. I have prior professional experience working within full-stack devlopment, specifically using the following technologies: ASP.NET, C#, SQL Server, MVC, Entity Model, LINQ, APIs, JSON, Javascript, JQuery, NodeJs, CSS, HTML, Telerik / Kendo UI library, and the Quill template library. 
-                Additionally, I also have experience using Git Bash, Github, Heroku, MongoDB ,Express.js, React.js, Node.js (MERN stack), mySQL, and NoSQL. All of which, were covered during my Full-Stack Web Devlepment Certification program at University of Arizona. 
+                Additionally, I also have personal knowledge on using Git Bash, Github, Heroku, MongoDB ,Express.js, React.js, Node.js (MERN stack), mySQL, and NoSQL. All of which, were covered during my Full-Stack Web Devlepment Certification program at University of Arizona. 
                 </p>
                 <br/>
                 <p className="a-desc">

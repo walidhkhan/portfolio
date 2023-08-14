@@ -5,7 +5,7 @@ export const projects = [
     // TMCloud Video Guide Module
     {
         id: 1,
-        img: "https://i.postimg.cc/L6SbpV2J/Tm-Cloud-Videos-Module1.png",
+        img: "https://i.postimg.cc/ZnRv25xr/TMCloud-Videos-Module.gif",
         link: " https://albums.memento.com/tick67991",
         title: "TMCloud ~ Videos Module",
         desc: "The module for TMCloud guide videos. Featuring the ability to upload videos, send video links to users via email, and play video using kendo UI.",
@@ -29,8 +29,8 @@ export const projects = [
     // TMCloud Templates Editor
     {
         id: 3,
-        img: "https://i.postimg.cc/bYVZXmQT/TMCloud-Console-Application.png",
-        link: "https://albums.memento.com/up31385",
+        img: "https://i.postimg.cc/5yZyrNRk/TMCloud-Template-Editor.gif",
+        link: "https://albums.memento.com/pic67063",
         title: "TMCloud ~ Templates Editor",
         desc: "An update for the TMCloud templates editor, where Quill.js was implemented to replace CK Editor.",
         techs: "HTML, CSS, JS, Node.js, npm, Quill.js library, etc.",
@@ -53,7 +53,7 @@ export const projects = [
         // TMCloud Copy Patent Button
     {
         id: 3,
-        img: "https://i.postimg.cc/bYVZXmQT/TMCloud-Console-Application.png",
+        img: "https://i.postimg.cc/JzsHKvYF/TMCloud-Copy-Patent-Button.gif",
         link: "https://albums.memento.com/up31385",
         title: "TMCloud ~ Copy Patent Button",
         desc: "A feature that allows the user to copy data from a patent record over to a newly created record.",
