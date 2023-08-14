@@ -1,3 +1,5 @@
+import TmCloudVideoModulePic from "../../img/TmCloudVideosModule1.PNG";
+
 export const projects = [
     
     {
@@ -72,4 +74,29 @@ export const projects = [
         imgHeight: "60%",
         imgWidth: "100%",
     },
+    // TMCloud Video Guide Module 
+    {
+        id: 7,
+        img: "/src/img/TmCloudVideosModule1.PNG",
+        link: "https://notetake-walidhkhan.herokuapp.com/",
+        title: "TMCloud ~ Videos Module",
+        desc: "The videos module for TMCloud Inc. Featuring the ability to upload, send links via email, and play video using kendo UI.",
+        techs: "ASP.NET, C#, JS, jQuery, SQL Server, etc.",
+        gl: "https://github.com/walidhkhan/noteTake",
+        imgHeight: "60%",
+        imgWidth: "100%",
+    },    
+    // TMCloud Console Application 
+    {
+        id: 8,
+        img: {TmCloudVideoModulePic},
+        link: "https://notetake-walidhkhan.herokuapp.com/",
+        title: "TMCloud ~ Console Application",
+        desc: "A console application that read the status ",
+        techs: "ASP.NET, C#, JS, jQuery, SQL Server, etc.",
+        gl: "https://github.com/walidhkhan/noteTake",
+        imgHeight: "60%",
+        imgWidth: "100%",
+    },    
+    
 ];
