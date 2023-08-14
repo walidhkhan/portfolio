@@ -22,16 +22,16 @@ const About = () => {
                 </p>
                 <br/>                
                 <p className="a-desc">
-                I'm an IT Professional who is currently seeking opportunities. I have prior professional experience working within full-stack software devlopment, specifically using the following technologies: ASP.NET, C#, SQL Server, MVC, Entity Model, LINQ, APIs, JSON, Javascript, JQuery, NodeJs, CSS, HTML, Telerik / Kendo UI library, and the Quill template library. 
-                Additionally, I also have experience using Git Bash, Github, Heroku, MongoDB ,Express.js, React.js, Node.js (MERN stack), mySQL, and NoSQL. All of which, were covered during my Full-Stack Web Devlepment Certification program at University of Arizona. 
+                I'm an IT Professional who is currently seeking opportunities. I have prior professional experience working within full-stack devlopment, specifically using the following technologies: ASP.NET, C#, SQL Server, MVC, Entity Model, LINQ, APIs, JSON, Javascript, JQuery, NodeJs, CSS, HTML, Telerik / Kendo UI library, and the Quill template library. 
+                Additionally, I also have personal knowledge on using Git Bash, Github, Heroku, MongoDB ,Express.js, React.js, Node.js (MERN stack), mySQL, and NoSQL. All of which, were covered during my Full-Stack Web Devlepment Certification program at University of Arizona. 
                 </p>
                 <br/>
                 <p className="a-desc">
-                Rounding out my professional skill-set is my background in business, especially regarding financial accounting and management. This was established during my time as an accountant in commerical property management, and has developed my foundation to analyze data, problem-solve, document, and communicate crucial information in a timely manner.
+                Rounding out my professional skill-set is my background in business, especially regarding finance, accounting and management. This was established during my time as an accountant in commerical property management, and has developed my foundation to analyze data, problem-solve, document, and communicate crucial information in a timely manner.
                 </p>
                 <br/>
                 <p className="a-desc">
-                My long term career goals consist of expanding into a senior IT role. Through further experience and continuous improvement, I will use my knowledge within the fundamentals of IT and business to contribute towards advanced development within the technological world.
+                My long term career goals consist of growing into a senior IT role. Through further experience and continuous improvement, I will use my knowledge within the fundamentals of IT and business to contribute towards advanced development within the technological world.
                 </p>
                 <div className="a-cert">
                     <img src={Certificate} alt="" className="a-cert-img" />
